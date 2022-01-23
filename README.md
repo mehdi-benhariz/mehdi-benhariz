@@ -4,7 +4,10 @@ Glad to see you here!
 
 - 📫 How to reach me:
  [LinedIn](https://www.linkedin.com/in/mehdi-ben-hariz/)
-- ⚡ Fun fact: ... 
+ - 🌱 I’m currently learning dotnet
+ - 👯 I’m looking for an opportunity to grow and develop my skill
+ - 💬 Ask me about about : node , react or javascript
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdi-benhariz&show_icons=true&count_private=true)

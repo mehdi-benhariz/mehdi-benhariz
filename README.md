@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Mehdi Ben Hariz
 Glad to see you here!   
+![](https://komarev.com/ghpvc/?username=mehdi-benhariz&color=green)
 
 - 📫 How to reach me:
  [LinedIn](https://www.linkedin.com/in/mehdi-ben-hariz/)

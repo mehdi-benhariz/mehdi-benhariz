@@ -5,9 +5,9 @@ Glad to see you here!
 
 - 📫 How to reach me:
  [LinedIn](https://www.linkedin.com/in/mehdi-ben-hariz/)
- - 🌱 I’m currently learning dotnet
+ - 🌱 I’m currently learning Devops
  - 👯 I’m looking for an opportunity to grow and develop my skill
- - 💬 Ask me about about : node , react or javascript
+ - 💬 Ask me about about : node , react or dotnet
 
 
 

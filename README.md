@@ -1,11 +1,11 @@
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 ### Hi there 👋
 My name is Mehdi Ben Hariz
 Glad to see you here!   
 ![](https://komarev.com/ghpvc/?username=mehdi-benhariz&color=green)
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 - 📫 How to reach me:
  [LinedIn](https://www.linkedin.com/in/mehdi-ben-hariz/)
